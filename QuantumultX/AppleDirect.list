@@ -1,0 +1,10 @@
+# NAME: AppleDirect
+# REPO: https://github.com/Jacksun000/rule
+
+HOST-SUFFIX,mail.icloud.com.cn,AppleDirect
+HOST-SUFFIX,mail.me.com,AppleDirect
+HOST-SUFFIX,mail.me.com,AppleDirect
+HOST-SUFFIX,xp.apple.com,AppleDirect
+HOST-SUFFIX,icloud.com.cn,AppleDirect
+HOST-SUFFIX,apps.apple.com,AppleDirect
+HOST-SUFFIX,itunes.apple.com,AppleDirect
