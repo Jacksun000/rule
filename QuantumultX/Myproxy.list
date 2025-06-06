@@ -1,6 +1,6 @@
 # NAME: Sunxiufeng
 # REPO: https://github.com/Jacksun000/rule
-
+######################################直连#################################
 #bnb
 HOST-KEYWORD,bnb,Directs
 HOST-KEYWORD,binance,Directs
@@ -14,11 +14,14 @@ HOST-SUFFIX,bnbstatic.com,Directs
 
 #okx
 HOST-KEYWORD,okx,Directs
+HOST-SUFFIX,okx.com,Directs
 
 #ibkr
-
+HOST-SUFFIX,interactivebrokers.com,Directs
+HOST-SUFFIX,ibkr.com,Directs
 
 #hsbc
+HOST-SUFFIX,hsbc.com.hk,Directs
 
 
 #boc
@@ -32,3 +35,12 @@ HOST-KEYWORD,okx,Directs
 
 #longbridge
 
+#hafoo
+HOST-KEYWORD,hafoo,Directs
+HOST-SUFFIX,hafoo.com,Directs
+HOST-SUFFIX,eastmoney.com,Directs
+
+############################HK######################################
+#bybit
+HOST-KEYWORD,.by,HK
+HOST-KEYWORD,bybit,HK
