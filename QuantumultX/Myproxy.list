@@ -4,6 +4,10 @@
 #bnb
 HOST-KEYWORD,bnb,Directs
 HOST-KEYWORD,binance,Directs
+HOST-SUFFIX,binance.com,Directs
+HOST-SUFFIX,binance.info,Directs
+HOST-SUFFIX,binancecnt.com,Directs
+HOST-SUFFIX,bnbstatic.com,Directs
 
 #okx
 HOST-KEYWORD,okx,Directs
