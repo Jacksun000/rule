@@ -2,11 +2,11 @@
 # REPO: https://github.com/Jacksun000/rule
 
 #bnb
-HOST-KEYWORD,bnb,Direct
-HOST-KEYWORD,binance,Direct
+HOST-KEYWORD,bnb,Directs
+HOST-KEYWORD,binance,Directs
 
 #okx
-HOST-KEYWORD,okx,Direct
+HOST-KEYWORD,okx,Directs
 
 #ibkr
 
