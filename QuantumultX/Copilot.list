@@ -1,6 +1,0 @@
-# NAME: AppleDirect
-# REPO: https://github.com/Jacksun000/rule
-
-HOST-SUFFIX,copilot-proxy.githubusercontent.com,copilot
-HOST-SUFFIX,api.githubcopilot.com,copilot
-HOST-SUFFIX,copilot-telemetry-service.githubusercontent.com,copilot
