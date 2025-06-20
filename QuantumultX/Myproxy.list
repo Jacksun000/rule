@@ -45,3 +45,10 @@ HOST-SUFFIX,eastmoney.com,Directs
 #bybit
 HOST-KEYWORD,.by,HK
 HOST-KEYWORD,bybit,HK
+
+
+
+############################HK######################################
+#filmtoday
+HOST-KEYWORD,filmtoday,GlobalMedia
+HOST-SUFFIX,filmtoday.xyz,GlobalMedia
