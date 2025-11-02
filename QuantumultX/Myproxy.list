@@ -43,7 +43,6 @@ HOST-SUFFIX,eastmoney.com,Directs
 
 ############################HK######################################
 #bybit
-HOST-KEYWORD,.by,HK
 HOST-KEYWORD,bybit,HK
 
 
